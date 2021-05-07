@@ -30,6 +30,7 @@ and then loaded by lk2nd.
 - Xiaomi Redmi 4X - santoni
 - Xiaomi Redmi Note 4X Snapdragon - mido
 - Xiaomi Redmi Note 5 / 5 Plus Snapdragon - vince
+- Xiaomi Mi A1 - tissot
 
 ## Installation
 1. Download `lk2nd.img` (available in [Releases](https://github.com/msm8916-mainline/lk2nd/releases)(MSM8916))
