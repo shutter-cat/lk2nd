@@ -16,7 +16,6 @@ DTBS += \
 	$(LOCAL_DIR)/msm8953-xiaomi-mido.dtb \
 	$(LOCAL_DIR)/msm8953-xiaomi-vince.dtb \
 	$(LOCAL_DIR)/msm8953-xiaomi-tissot.dtb \
-	$(LOCAL_DIR)/sdm632-motorola-ocean.dtb \
 	$(LOCAL_DIR)/msm8953-xiaomi-daisy.dtb \
 	$(LOCAL_DIR)/msm8953-motorola-potter.dtb
 endif
